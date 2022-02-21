@@ -1,0 +1,9 @@
+slug = "crazy-daves-maze"
+title = "Crazy Dave's Maze"
+author = "Jerry"
+value = 40
+description = """BRAINNNNNNNSSSSS. Unfortunately, you have been turned into a zombie. Fortunately, however, you happen to have access to the backyard of a food source. Crazy Dave is protecting this house, but you think that even as a zombie, you have more brains than him. Can you outsmart him and find the solution to this [maze](maze.zip)?"""
+tags = ["file"]
+files = ["maze.zip"]
+flag = "flag{the_zombies_are_coming}"
+enabled = true
