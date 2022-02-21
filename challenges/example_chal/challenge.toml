@@ -1,0 +1,9 @@
+slug = "use-a-cool-slug-here"
+title = "This is the name of my cool title!"
+author = "insert Cool kid name here"
+value = 100
+description = """We use markdown, so if you want to include a hyperlink do something like this: [here](https://forms.gle/DpMohPXKsTp2bwoSA)."""
+tags = ["feedback"]
+files = ["example_file.txt"]
+flag = "flag{this_flag_is_cool}"
+enabled = false
