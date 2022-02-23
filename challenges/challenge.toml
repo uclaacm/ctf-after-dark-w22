@@ -1,0 +1,9 @@
+slug = "out-one-out"
+title = "Odd One Out"
+author = "Laura"
+value = 15
+description = """I was sniffing around my network recently and I noticed something [odd](odd.pcapng) about my packets. Can you figure out what’s shifty?"""
+tags = ["pcap"]
+files = ["odd.pcapng"]
+flag = "flag{ODDS_OVER_EVENS}"
+enabled = true
