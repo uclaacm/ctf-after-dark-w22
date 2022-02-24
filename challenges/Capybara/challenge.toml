@@ -1,0 +1,9 @@
+slug = "Capybara-nametag"
+title = "Have you met this Capybara?"
+author = "Caolinn"
+value = 15
+description = """Did you know that capybaras are phenominal swimmers and have the ability to sleep in the water. They are also excellent on land. You cannot escape them. We must move to the air for refuge for they cannot fly. This [capybara](Capybara.jpg) will spare you if you know his name. Find it! """
+tags = ["file"]
+files = ["Capybara.jpg"]
+flag = "flag{Tom}"
+enabled = true
