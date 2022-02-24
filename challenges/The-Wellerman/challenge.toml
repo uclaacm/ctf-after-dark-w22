@@ -1,0 +1,10 @@
+slug = "the-wellerman"
+title = "The Wellerman"
+author = "loltyler1dotcom-discount-code-alpha"
+value = 30
+description = """There once was a ship that put to sea / And the name of that ship was the Billy o' Tea / The winds blew hard, her bow dipped down / Blow, me bully boys, blow (Huh!). 
+Wow that was such a great song. Anyways [here](wellerman) is the challenge. This [file](wellerman.c) also blew to shore. It may be of some help."""
+tags = ["file"]
+files = ["wellerman", "wellerman.c"]
+flag = "flag{3xpl0IteD}"
+enabled = true
