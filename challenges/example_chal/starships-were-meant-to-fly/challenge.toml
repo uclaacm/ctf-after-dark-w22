@@ -1,0 +1,9 @@
+slug = "starships-were-meant-to-fly" 
+title = "Starships Were Meant to Fly" 
+author = "Juliet" 
+value = 10 
+description = """You're jamming to some 2012 bops when your friend sends you [this image](starship.jpeg). Why is it not opening??""" 
+tags = ["file"] 
+files = ["starship.jpeg"] 
+flag = "flag{wow_a_flag_on_a_flag!}" 
+enabled = true
